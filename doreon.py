@@ -295,5 +295,5 @@ if __name__ == '_-main__':
     speed(9)    
     Doraemon()
     my_goto(100, -300)
-    write('Code With Trick', font=("Bradley Hand ITC", 30, "bold"))
+    write('MYPROGRAMMINGWORLD2021', font=("Bradley Hand ITC", 30, "bold"))
     mainloop()
